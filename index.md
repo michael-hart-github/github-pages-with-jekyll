@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "How did you get in here?"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Nevermind that. Now that you're here, I've got something to tell you.
